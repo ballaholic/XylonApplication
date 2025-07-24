@@ -1,31 +1,10 @@
 # XylonApplication
 
-![Build](https://github.com/YOUR_USERNAME/XylonApplication/actions/workflows/dotnet.yml/badge.svg)
+![Build](https://github.com/ballaholic/XylonApplication/actions/workflows/dotnet.yml/badge.svg)
 ![.NET](https://img.shields.io/badge/.NET-9.0-blue.svg)
 ![License](https://img.shields.io/badge/license-Custom-red)
 
 XylonApplication is a **clean ASP.NET Core 9.0 solution template** with modular architecture, pre-configured code quality tools, and CI/CD ready for GitHub Actions.
-
----
-
-## 📂 Project Structure
-
-XylonApplication/
-├── .editorconfig
-├── .gitattributes
-├── .gitignore
-├── LICENSE
-├── README.md
-├── stylecop.json
-├── .github/
-│ └── workflows/dotnet.yml
-└── src/
-├── XylonApplication.sln
-├── XylonApplication.Web/
-├── XylonApplication.Data/
-├── XylonApplication.Services/
-├── XylonApplication.Common/
-└── XylonApplication.Tests/
 
 ---
 
